@@ -221,3 +221,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Temporary office files
+~$*
+*.tmp
+*.~*
+*.bak
+*.~lock.*
+
+# Temporary PDF files
+*.pdf~
+
